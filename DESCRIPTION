@@ -1,0 +1,8 @@
+Package: pea
+Title: Positive Extensions to APE
+Description: Functions for querying time trees in APE.
+Version: 0.1
+Author: Tim Vaughan <tgvaughan@gmail.com>
+Maintainer: Tim Vaughan <tgvaughan@gmail.com>
+Depends: ape
+License: file LICENSE
