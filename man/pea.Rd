@@ -4,6 +4,7 @@
 \alias{isLeaf}
 \alias{isRoot}
 \alias{getRoot}
+\alias{getLeaves}
 \alias{getBranchLength}
 \alias{getNodeHeights}
 \title{PEA methods for querying trees}
@@ -17,6 +18,7 @@ getParent(tree, node)
 isLeaf(tree, node)
 isRoot(tree, node)
 getRoot(tree)
+getLeaves(tree)
 getBranchLength(tree, node)
 getNodeHeights(tree)
 }

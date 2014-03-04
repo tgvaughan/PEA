@@ -25,6 +25,18 @@ getRoot <- function(tree) {
     }
 }
 
+getLeaves <- function(tree) {
+    nodeMax <- max(tree$edge)
+
+    leaves <- c()
+    for (i in 1:nodeMax) {
+        if (isLeaf(tree, i))
+            leaves <- append(leaves, i)
+    }
+
+    return (leaves)
+}
+
 # Get length of edge above node
 getBranchLength <- function(tree, node) {
     if (isRoot(tree, node)) {
