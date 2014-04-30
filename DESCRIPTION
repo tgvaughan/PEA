@@ -1,5 +1,5 @@
 Package: pea
-Title: PEA Extends to APE
+Title: PEA Extends APE
 Description: Functions for querying time trees in APE.
 Version: 0.1
 Author: Tim Vaughan <tgvaughan@gmail.com>
