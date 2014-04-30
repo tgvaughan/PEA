@@ -1,5 +1,5 @@
 Package: pea
-Title: Positive Extensions to APE
+Title: PEA Extends to APE
 Description: Functions for querying time trees in APE.
 Version: 0.1
 Author: Tim Vaughan <tgvaughan@gmail.com>
