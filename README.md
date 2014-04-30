@@ -1,7 +1,7 @@
 PEA
 ===
 
-Positive Extensions to APE - a few function definitions to make it
+PEA Extends APE - a few function definitions to make it
 easier to work with time trees in APE.
 
 To install, download the source
